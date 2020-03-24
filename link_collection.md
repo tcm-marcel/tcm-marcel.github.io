@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Link Collection"
 permalink: /link_collection/
 ---
