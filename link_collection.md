@@ -8,7 +8,11 @@ permalink: /link_collection/
 
 Because browser bookmarks are a mess. 
 
-### C++ Topics
+### C++ / Systems
+
+* [Shipping a compiler every six weeks](https://www.pietroalbini.org/blog/shipping-a-compiler-every-six-weeks/)
+* [Zip Files: History, Explanation and Implementation](https://www.hanshq.net/zip.html)
+* [Parsing Frameworks: Why you should not use flex, yacc and bison](https://tomassetti.me/why-you-should-not-use-flex-yacc-and-bison/)
 
 ### Writing and Presentation Skills
 
