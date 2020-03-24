@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## About Me
 
-You can use the [editor on GitHub](https://github.com/tcm-marcel/tcm-marcel.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This is an unorganized and probably not up to date collection of information about me and private notes such as link collections and project summaries. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Social Networking :busts_in_silhouette:
 
-### Markdown
+Find information about my business profile on one of these sites:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* [Linked-In Profile](https://www.linkedin.com/in/marcel-kost/) short CV
+* [Xing Profile](https://www.xing.com/profile/Marcel_Kost2/) same CV, different platform
 
-```markdown
-Syntax highlighted code block
+### Pages :card_file_box:
 
-# Header 1
-## Header 2
-### Header 3
+* [Link Collection](/link_collection)
 
-- Bulleted
-- List
+### Private Projects :bee:
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tcm-marcel/tcm-marcel.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* [Wanderkastern 2.0](https://hackaday.io/project/27007-wanderkastern-20) a robust weather-proof beer case with illumination (and Wifi)
+* [C++ Webserver](https://github.com/tcm-marcel/webserver) I spent one weekend to build a basic webserver for learning purposes
