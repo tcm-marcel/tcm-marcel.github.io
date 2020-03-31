@@ -28,7 +28,19 @@ Remote access is explicitly not a requirement and should be avoided
 
 ### Hardware
 
-* _coming soon_
+* _Mainboard:_ [Asrock J5005-ITX](https://www.asrock.com/mb/Intel/J5005-ITX/index.de.asp)
+    * Intel Quad-Core Pentium J5005, 2.8 Ghz)
+    * 4 SATA3
+    * 4 USB 3.1 Gen1
+* _Memory:_ 2x 8GB DDR4 SO-DIMM RAM
+* _Drives:_
+    * Two mirrored USB sticks with the OS, directly on the Mainboard USB3.0 pin header
+        * Sandisk Ultra Fit USB 3.1 64GB
+    * One cheap SSD for system dataset and runtime data, allows the data drives to go into standby
+        * Samsung 128GB SSD PM871 M.2 SATA, connected using M.2 USB3.0 adapter
+    * Two mirrored SATA3 data drives, different models to avoid contemporaneous failure
+        * Seagate IronWolf 4TB (ST4000VN008)
+        * Seagate BarraCuda Compute 4TB (ST4000DM004)
 
 ### Software
 
