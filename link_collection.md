@@ -14,6 +14,11 @@ Because browser bookmarks are a mess.
 * [Zip Files: History, Explanation and Implementation](https://www.hanshq.net/zip.html)
 * [Parsing Frameworks: Why you should not use flex, yacc and bison](https://tomassetti.me/why-you-should-not-use-flex-yacc-and-bison/)
 
+### Testing
+
+
+* [Google Testing Blog: Code Coverage Best Practices](https://testing.googleblog.com/2020/08/code-coverage-best-practices.html)
+
 ### Writing and Presentation Skills
 
 * [Tips and Guidance for Students Writing Papers and Reports](http://gernot-heiser.org/style-guide.html) by Gernot Heiser (God of Microkernels) 
